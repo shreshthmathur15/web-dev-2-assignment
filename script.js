@@ -28,7 +28,7 @@ form.addEventListener('submit',(e)=>{
 })
 
 document.addEventListener('keydown',(e)=>{
-    // console.log(e.key)
+    console.log(e.key)
 })
 
 document.querySelector('.clearAll').addEventListener('click',()=>{
